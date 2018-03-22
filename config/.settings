@@ -1,0 +1,17 @@
+{
+    "projectName": "shorelightDX",
+    "username": "nebexdx@ethioforce.com",
+    "id": "57627350-2d7a-11e8-9d5f-7f9f562aab9d",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na50.salesforce.com",
+    "workspace": "/Users/NebexG/Documents/Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
